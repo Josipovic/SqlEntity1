@@ -1,0 +1,12 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\bin\Debug\EntityFramework2.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\bin\Debug\EntityFramework2.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\bin\Debug\EntityFramework2.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\bin\Debug\EntityFramework.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\bin\Debug\EntityFramework.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\obj\Debug\EntityFramework2.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\obj\Debug\EntityFramework2.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\obj\Debug\EntityFramework2.csproj.CopyComplete
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\obj\Debug\EntityFramework2.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityFramework2\EntityFramework2\obj\Debug\EntityFramework2.pdb
